@@ -21,7 +21,7 @@ import com.instademo.framework.InstagramWebView;
 
 public class InstaDemoActivity extends Activity {
 
-	private static final String URL = "https://api.instagram.com/v1/tags/selfie/media/recent?access_token=1711995165.5c40135.8425b377a4644dcfa3bb5843a167e70f";
+	private static final String URL = "https://api.instagram.com/v1/tags/selfie/media/recent?access_token=1738871866.09da6f4.da5a9f426cda44b180ec3fefbba932fb";
 	private JSONObject information;
 	private GridView imageGridView;
 	private static int TILE_WIDTH = 220;
